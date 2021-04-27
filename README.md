@@ -66,3 +66,5 @@ subversion to git hosted at GitHub
 Enjoy,
 
 Dimitri van Heesch (doxygen at gmail.com)
+
+awoo
